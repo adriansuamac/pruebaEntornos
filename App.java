@@ -6,7 +6,8 @@ public class App {
 	System.out.println("Contenido 3"); 
 	System.out.println("Contenido 2b");    	
 	System.out.println("Adrian Suarez"); 
-	System.out.println("IES San Andrés");
+	System.out.println("IES San Andres");
+	System.out.println("Leon");
   }
   
 }
